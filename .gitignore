@@ -1,0 +1,8 @@
+venv/
+archive/
+.env
+__pycache__/
+*.py[cod]
+db.mysql
+.idea/
+.vscode/
